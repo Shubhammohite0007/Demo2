@@ -1,22 +1,27 @@
 package javaprograms;
 
+import java.util.Scanner;
+
 public class prc {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		      //consugative num
-		int num=123;
-		int a=10;
-		int b=11;
-		int c=12;
-		
-		if((b-a)==1 && (c-b)==1) {
-			System.out.println("conse num");
-		}else {
-			System.out.println("non cons");
-		}
-				
-	}
+	//sum of even num
 
+	//consequtive num
+
+	public static void main(String []args){
+	        //vowel
+		String str="shubhamm";
+		char ch[]=str.toCharArray();
+		
+		for(int i=0;i<str.length();i++) {
+			
+			for(int j=i+1;j<str.length();j++) {
+				 if(str[i].)
+		
+			}
+		}
+		}
+		
 }
+
+
